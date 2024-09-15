@@ -3,7 +3,8 @@
 Kathleen Boothová byla významnou osobností v oblasti počítačových věd. Vytvořila první [assembly jazyk](https://cs.wikipedia.org/wiki/Jazyk_symbolick%C3%BDch_adres) pro počítačové systémy, který měl velký vliv na budoucí vývoj programovacích jazyků.
 
 ### Biografie
-Kathleen Boothová se narodila 9. července 1922 v Anglii. V roce 1932 začalo její středoškolské vzdělání. <br>Dvakrát přestoupila na jinou střední školu:
+Kathleen Boothová se narodila 9. července 1922 v Anglii. Roku 1932 začalo její středoškolské vzdělání, dvakrát přestoupila na jinou střední školu.
+Chodila na tyto střední školy:
 * Sutton Coldfield High School
 * West Bromwich Secondary School
 * King Edward VI's High School for Girls v Birminghamu
