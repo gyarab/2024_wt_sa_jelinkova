@@ -1,4 +1,4 @@
-# Repozitář Jany Jelínkové, webové technologie 2024/25
+# Jana Jelínková, webové technologie 2024/25
 ## Kathleen Booth (1922-2022)
 **Kathleen Boothová** byla významnou osobností v oblasti počítačových věd. Vytvořila první [assembly jazyk](https://cs.wikipedia.org/wiki/Jazyk_symbolick%C3%BDch_adres) pro počítačové systémy, který měl velký vliv na budoucí vývoj programovacích jazyků.
 
