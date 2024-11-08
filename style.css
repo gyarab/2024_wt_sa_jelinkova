@@ -1,0 +1,57 @@
+
+h1 {
+    background-color: #DDEEFF;
+    color: violet;
+}
+main {
+    color: black;
+}
+footer {
+    background-color: pink;
+    font-size: 2em;
+}
+.text {
+    color: green;
+}
+.text h2 {
+    border: 2px solid yellowgreen;
+}
+.list h2 {
+    border: 4px solid gray;
+}
+.list ul ul {
+    background-color: violet;
+}
+#menu {
+    background-color: green;
+    font-family: Courier;
+}
+header {
+    border: 3px solid salmon;
+    border-top: 5px solid blueviolet;
+    border-bottom: 4px dashed gray;
+    border-top-color: rgb(214, 145, 145);
+    border-left: 2px dotted rgb(91, 211, 211);
+    border-right: 3px inset green;
+    border-radius: 5px;
+}
+.text {
+    font-size: 12px;
+    font-weight: bolder;
+    text-align: justify;
+}
+.superfont {
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.gargamelfont {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(235, 113, 0);
+}
+.table h2 {
+    text-shadow: 2px 2px rgb(202, 200, 200);
+}
+
