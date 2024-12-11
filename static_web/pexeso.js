@@ -3,6 +3,8 @@ console.log('START')
 
 let sirka = 4
 let vyska = 4
+//document.getElementById("kartickyRada").value = sirka
+//document.getElementById("kartickySloupec").value = vyska
 let poli = sirka * vyska 
 let figurek = poli / 2
 let hraciPole
